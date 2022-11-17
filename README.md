@@ -18,4 +18,4 @@ I will fine-tune the neural networks model to see if it can approach a human sum
 <a id="1">[1]</a> 
 Dirks, Tim. "Filmsite: 100 Greatest Films." Filmsite, 
 https://www.filmsite.org/momentsindx1.html. 
-Accessed: 2022-11-2.
+Accessed: 2022-11-02.
